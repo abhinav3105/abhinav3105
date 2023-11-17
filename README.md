@@ -1,3 +1,4 @@
+<img src="https://camo.githubusercontent.com/0850a9b……3330363…" alt="MasterHead" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Abhinav Dubey</h1>
 <h3 align="center">A passionate Mern developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
