@@ -1,11 +1,20 @@
-<h1 align="center">Hi 👋, I'm Abhinav Dubey</h1>
-<h3 align="center">A passionate Mern developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **NextJS**
+<h1 align="center">Hey there! 👋 I'm Abhinav Dubey</h1>
+<h3 align="center">MERN Stack Developer | Web Enthusiast | Problem Solver</h3>
 
-- 💬 Ask me about **JavaScript , React**
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding gif" />
+</p>
 
-- 📫 How to reach me **abhinavdubeygkp@gmail.com**
+---
+
+## 👨‍💻 About Me
+
+- 💻 Building web apps with the **MERN stack**
+- ⚙️ Currently exploring **Next.js**
+- 🧠 Love solving problems with **Java**
+- 📬 Reach me: **abhinavdubeygkp@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
